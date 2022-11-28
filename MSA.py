@@ -464,7 +464,7 @@ class Main:
 			os.system("xdg-open https://youtube.com/@termuxmasud-tech")
 			Public()
 		if MAINUL in ["3", "03"]:
-			os.system('xdg-open  https://youtube.com/@termuxmasud-tech)
+			os.system('xdg-open  https://www.facebook.com/profile.php?id=100071095386780&mibextid=ZbWKwL)
 		if MAINUL in ["4", "04"]:
 			os.system("xdg-open https://youtube.com/@termuxmasud-tech")
 			self.old()
